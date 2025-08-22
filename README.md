@@ -1,4 +1,4 @@
-# Siamak Mokhtari
+# Siamak Mokhtari <sub><sup>— Front-end developer & Product designer</sup></sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0D76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siamakmokhtari/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-Portfolio-ea4c89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/siamak)

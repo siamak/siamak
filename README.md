@@ -11,3 +11,8 @@ Currently working on [Codemod.com](https://codemod.com), where I focus on buildi
 ## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,figma,nodejs,vite,vue,prisma,supabase,postgres,mongodb,vercel,docker,git,github,html,css,sass,ps,ai,netlify,pnpm,npm,yarn,vscode)](https://skillicons.dev)
+
+
+```javascript
+console.log("Happy Coding!");
+```

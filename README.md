@@ -6,7 +6,7 @@
 
 Hi, I'm **Siamak Mokhtari** — a front-end developer and product designer.
 
-Currently working on [Codemod.com](https://codemod.com), where I focus on building fast, accessible, and scalable interfaces.
+Currently working on [Codemod.com](https://codemod.com), where I focus on building fast, accessible, and scalable AI-powered interfaces.
 
 ## Languages and Tools
 
